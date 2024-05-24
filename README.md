@@ -1,1 +1,1 @@
-Site em desenvolvimento.git
+Site em desenvolvimento
